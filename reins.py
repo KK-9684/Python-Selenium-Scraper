@@ -1,5 +1,6 @@
 import time
 import json
+import re
 from datetime import datetime, timedelta
 from bs4 import BeautifulSoup
 from selenium import webdriver
